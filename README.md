@@ -75,6 +75,3 @@ Feel free to reach out to me:
 - LinkedIn: [Karan Gudha](https://www.linkedin.com/in/karankgudha/)
 - GitHub: [karangudha](https://github.com/karangudha)
 
-## License
-
-This project is open source and available under the [MIT License](LICENSE).

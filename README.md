@@ -73,5 +73,5 @@ portfolio/
 Feel free to reach out to me:
 - Email: karankgudha@gmail.com
 - LinkedIn: [Karan Gudha](https://www.linkedin.com/in/karankgudha/)
-- GitHub: [karangudha](https://github.com/karangudha)
+
 

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://karangudha.github.io/Portfolio_Website/sitemap.xml 

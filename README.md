@@ -36,12 +36,12 @@ A modern, responsive personal portfolio website built with HTML, CSS, and JavaSc
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/karangudha/karangudha.github.io.git
+git clone https://github.com/karangudha/Portfolio_Website.git
 ```
 
 2. Navigate to the project directory:
 ```bash
-cd karangudha.github.io
+cd Portfolio_Website
 ```
 
 3. Start the local server:

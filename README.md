@@ -68,21 +68,12 @@ portfolio/
 └── README.md
 ```
 
-## Deployment
-
-This portfolio is hosted on GitHub Pages. To deploy your own version:
-
-1. Fork this repository
-2. Rename it to `yourusername.github.io`
-3. Enable GitHub Pages in your repository settings
-4. Your site will be live at `https://yourusername.github.io`
-
 ## Contact
 
 Feel free to reach out to me:
 - Email: karankgudha@gmail.com
 - LinkedIn: [Karan Gudha](https://www.linkedin.com/in/karankgudha/)
 - GitHub: [karangudha](https://github.com/karangudha)
-- Portfolio: [karangudha.github.io](https://karangudha.github.io)
+- Portfolio: [Karan's Portfolio](https://karangudha.github.io/Portfolio_Website/)
 
 

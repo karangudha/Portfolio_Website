@@ -36,12 +36,12 @@ A modern, responsive personal portfolio website built with HTML, CSS, and JavaSc
 
 1. Clone the repository:
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/karangudha/karangudha.github.io.git
 ```
 
 2. Navigate to the project directory:
 ```bash
-cd portfolio
+cd karangudha.github.io
 ```
 
 3. Start the local server:
@@ -68,10 +68,21 @@ portfolio/
 └── README.md
 ```
 
+## Deployment
+
+This portfolio is hosted on GitHub Pages. To deploy your own version:
+
+1. Fork this repository
+2. Rename it to `yourusername.github.io`
+3. Enable GitHub Pages in your repository settings
+4. Your site will be live at `https://yourusername.github.io`
+
 ## Contact
 
 Feel free to reach out to me:
 - Email: karankgudha@gmail.com
 - LinkedIn: [Karan Gudha](https://www.linkedin.com/in/karankgudha/)
+- GitHub: [karangudha](https://github.com/karangudha)
+- Portfolio: [karangudha.github.io](https://karangudha.github.io)
 
 

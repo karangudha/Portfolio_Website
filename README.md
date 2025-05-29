@@ -68,17 +68,6 @@ portfolio/
 └── README.md
 ```
 
-## Customization
-
-To customize this portfolio for your own use:
-
-1. Update the personal information in `index.html`
-2. Replace the profile picture in `assets/img/`
-3. Modify the projects section with your own projects
-4. Update the skills and experience sections
-5. Change the color scheme in the CSS files
-6. Update social media links
-
 ## Contact
 
 Feel free to reach out to me:
@@ -89,9 +78,3 @@ Feel free to reach out to me:
 ## License
 
 This project is open source and available under the [MIT License](LICENSE).
-
-## Acknowledgments
-
-- Template based on [Personal Portfolio Template](https://bootstrapmade.com/personal-free-resume-bootstrap-template/)
-- Icons from [Boxicons](https://boxicons.com/)
-- Fonts from [Google Fonts](https://fonts.google.com/) 

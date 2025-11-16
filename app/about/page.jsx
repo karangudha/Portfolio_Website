@@ -33,7 +33,7 @@ export default function About() {
                   I studied Biotechnology as My Major and Computer Science (CS) as my minor at NIT Raipur in 2025.
                   <br />
                   <br />
-                  I have been programming since my college days and solved 700+ coding problems, achieving a LeetCode rating of 1565. These are the tech stacks that I have worked on so far:
+                  I have been programming since my college days and solved 700+ coding problems, achieving a LeetCode rating of 1583. These are the tech stacks that I have worked on so far:
                   <br />
                   <br />
                   <strong>Primary Skills:</strong>  

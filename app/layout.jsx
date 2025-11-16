@@ -4,7 +4,7 @@ import React from "react";
 export const metadata = {
   title: "Karan",
   description: "Portfolio Karan",
-  // icons: "/favicon.ico"
+  icons: "/favicon.ico"
 };
 
 export default function RootLayout({children}) {

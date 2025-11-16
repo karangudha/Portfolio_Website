@@ -4,7 +4,7 @@ export default function About() {
     return (
       <div>
           <div className="flex text-sm sm:text-base md:text-lg lg:text-xl xl:text-2xl bg-white">
-            <a className="text-lg sm:text-xl md:text-2xl lg:text-3xl xl:text-4xl py-1 sm:py-1 md:py-2 lg:py-2.5 xl:py-3.5 px-3 sm:px-4 md:px-5 lg:px-6 xl:px-7 text-blue-500 hover:bg-gray-100 transition" href="/">
+            <a className="text-lg sm:text-xl md:text-2xl lg:text-3xl xl:text-4xl py-1 sm:py-1 md:py-2 lg:py-2.5 xl:py-3.5 px-3 sm:px-4 md:px-5 lg:px-6 xl:px-7 text-blue-500 hover:bg-gray-100 transition" href="/Portfolio_Website">
               Home
             </a>
             <div className="flex-1"/>

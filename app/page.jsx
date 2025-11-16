@@ -1,4 +1,3 @@
-// import ParticlesContainer from "../components/Particles";
 import GitHubIcon from '../components/GitHubIcon';
 import ScrollIndicator from "../components/ScrollIndicator";
 import AboutSection from "../components/AboutSection";

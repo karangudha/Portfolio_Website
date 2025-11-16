@@ -1,14 +1,12 @@
 // import ParticlesContainer from "../components/Particles";
-import LinkedInIcon from "../components/linkedInIcon";
 import GitHubIcon from '../components/GitHubIcon';
-import InstagramIcon from '../components/InstagramIcon';
-import TwitterIcon from '../components/TwitterIcon';
 import ScrollIndicator from "../components/ScrollIndicator";
 import AboutSection from "../components/AboutSection";
 import LeetCodeIcon from "../components/LeetCodeIcon";
 import ParticlesContainer from "../components/particles";
 import YoutubeIcon from "../components/youtubeIcon";
 import Footer from "../components/Footer";
+import LinkedInIcon from '../components/linkedlnlcon';
 
 export default function Home() {
   return (

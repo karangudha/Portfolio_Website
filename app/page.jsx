@@ -13,7 +13,7 @@ export default function Home() {
       <ParticlesContainer />
       <div className="relative z-10 h-screen w-screen flex flex-col items-center justify-center align-middle leading-normal py-8 max-w-full bg-transparent">
         <h1 className="py-4 text-8xl sm:text-10xl md:text-12xl lg:text-14xl tracking-in-contract-bck-top text-black">
-          Karan .
+          KARAN .
         </h1>
         <div className="py-2">
           <a
